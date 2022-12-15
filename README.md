@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm currently looking for work as a junior frontend developer
+- At the moment, I'm learning ReactJS
+- You can reach me via email: shoshaikh7@gmail.com
 
 <!--
 **shoshaikh7/shoshaikh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
